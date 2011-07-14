@@ -1,3 +1,7 @@
 The source code (kernel) for the device Huawei IDEOS U8150!
 
 Fuction for multitouch and overclock included it!
+
+downloaded it and delete the config and .config (if .config.old and config.old included) delete them!
+
+for your good in fact not have any problem pull your own config file from your phone via adb and follow the steps for compiling it!
